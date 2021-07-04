@@ -59,7 +59,7 @@ class _HomeState extends State<Home>{
                 Padding(
                   padding: EdgeInsets.only(bottom: 10.0),
                   child: Text(
-                    'Currently in Boston',
+                    'Currently in Ibadan',
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 14.0,
